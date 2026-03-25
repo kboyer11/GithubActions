@@ -78,7 +78,7 @@ public class CalculatorTests
     [TestMethod]
     public void Power_Valid_Boyer()
     {
-        Assert.AreEqual(9, Program.Power("2", "3"));
+        Assert.AreEqual(8, Program.Power("2", "3"));
         Assert.AreEqual(1, Program.Power("5", "0"));
         Assert.AreEqual(9, Program.Power("3", "2"));
     }
