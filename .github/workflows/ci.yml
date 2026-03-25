@@ -1,4 +1,4 @@
-name: 'Run App Boyer, Kaden'
+name: 'Run App Boyer, Kaden' # checked
 
 on: [push, pull_request]
 
